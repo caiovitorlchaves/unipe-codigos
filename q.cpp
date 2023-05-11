@@ -1,0 +1,7 @@
+ALUNO: NOME COMPLETO DO ALUNO
+DISCIPLINA: ESTRUTURA DE DADOS I
+PROFESSOR: WALACE BONFIM
+
+Digite sua expressão aritmética na notação pós-fixa: 
+
+
