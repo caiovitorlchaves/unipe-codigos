@@ -1,0 +1,45 @@
+
+<html>
+
+	<!-- MARCAR DEFINIÇÕES DA PÁGINA -->
+	<head>
+		<title>HTML CVC TECH</title>
+		<style>
+			body{
+				background:#008B8B;
+			}
+			h1,h2,h3,h4,h5{
+				color:#ffffff;
+				margin-left:100px;
+			}
+			
+			.exemplo{
+				font-size:40px;
+			}
+			
+		</style>
+	</head>
+	
+	<!-- MARCAR O CONTEÚDO DA PÁGINA -->
+	<body>
+	
+		<!-- CABEÇALHOS -->
+		<h1>Cabeçalho 01</h1>
+		<h2 class="exemplo">Cabeçalho 02</h2>
+		<h3>Cabeçalho 03</h3>
+		<h4>Cabeçalho 04</h4>
+		<h5 class="exemplo">Cabeçalho 05</h5>
+		
+		<!-- <p>FLAMEGO CAMPEÃO DA LIBERTADORES 2017
+		<form>
+			<!-- ATRIBUTO -->
+			<input type="text" class="exemplo" id="texto"/>
+			<input type="button" id="btn" value="OK"/>
+		</form>
+	
+	</body>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+
+</html>
