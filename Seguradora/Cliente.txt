@@ -1,0 +1,7 @@
+Nome: caio;Endereço: rua bezzeras;valor: 19999;zona: Rural;residencia: Casa;Valor Seguro: 499.975;
+Nome: caio;Endereço: ddedr;valor: 1333;zona: Rural;residencia: Casa;Valor Seguro: 33.325;
+Nome: poepw;Endereço: eowepwepw;valor: 3210313;zona: Urbana;residencia: Casa;Valor Seguro: 96309.39;
+Nome:doapsdpas;Valor:3012031;Numero Funcionários:400;Numero de visitas por dia:100;Ramo:Agropecuaria;Valor Seguro: 391564.02999999974;
+Nome: okoko;Endereço: kokokoko;valor: 9000000;zona: Urbana;residencia: Casa;Valor Seguro: 270000.0;
+Nome:okpokpo;Valor:700000;Numero Funcionários:30;Numero de visitas por dia:200;Ramo:Agropecuaria;Valor Seguro: 37800.0;
+Nome: enoqoq;Endereço: odspodpas;valor: 0;zona: ;residencia: ;Valor Seguro: 0.0;
